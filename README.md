@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-## I am Harsh! Its great to meet you guys!
+## I am Harsh!
+
+- ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
+
 
 <!--
 **harshg28101999/harshg28101999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
