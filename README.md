@@ -3,7 +3,8 @@
 ## I am Harsh!
 
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
-
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: harshgupta7308@gmail.com
 
 <!--
 **harshg28101999/harshg28101999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
