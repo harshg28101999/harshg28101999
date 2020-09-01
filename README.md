@@ -3,7 +3,7 @@
 ## I am Harsh!
 
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning to work with C, Verilog, Python and Scheme
 - 📫 How to reach me: harshgupta7308@gmail.com
 
 <!--
