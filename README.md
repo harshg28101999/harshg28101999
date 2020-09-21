@@ -2,6 +2,9 @@
 
 <br/>
 
+<a href="https://www.qwiklabs.com/public_profiles/939ac227-9bde-4ce5-b3c3-47b8c30d6e59">
+  <img align="left" alt="Harsh's Google Cloud Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
+</a>
 
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
 - 🌱 I’m currently learning to work with C, Verilog & Python
