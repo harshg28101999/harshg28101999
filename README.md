@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hey there,👋 I'm [Harsh!](https://www.linkedin.com/in/harshgu/) 🧑🏻‍💻
 
-## I am Harsh!
+<br/>
+
 
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
 - 🌱 I’m currently learning to work with C, Verilog & Python
