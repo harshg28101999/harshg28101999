@@ -6,6 +6,8 @@
   <img align="left" alt="Harsh's Google Cloud Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 
+<br /><br />
+
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
 - 🌱 I’m currently learning to work with C, Verilog & Python
 - 📫 How to reach me: harshgupta7308@gmail.com
