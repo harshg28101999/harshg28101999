@@ -6,6 +6,14 @@
   <img align="left" alt="Harsh's Google Cloud Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/harshgu/">
+  <img align="left" alt="Harsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br /><br />
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%"/>
+
 <br /><br />
 
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
