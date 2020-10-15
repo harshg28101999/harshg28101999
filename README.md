@@ -22,7 +22,7 @@
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%"/>
 
-<br /><br />
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 - ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
 - 🌱 I’m currently learning to work with C, Verilog & Python
