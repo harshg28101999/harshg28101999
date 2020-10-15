@@ -18,6 +18,8 @@
   <img align="left" alt="Harsh's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/leetcode.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 <br /><br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%"/>
