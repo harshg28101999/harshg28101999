@@ -18,7 +18,7 @@
   <img align="left" alt="Harsh's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=harshg28101999.harshg28101999)
 
 <br /><br />
 
