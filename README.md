@@ -21,27 +21,27 @@
 <br /><br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" width="30%"/>
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Who am I?**
+
+Passionate about volunteering, technology and programming, I am always looking to undertake real-world problems and try solving them through the power of technology!
+
+Currently, I am majoring in Computer Science with Minors in Mathematics and Leadership Development at [The Pennsylvania State University](https://www.psu.edu/)
+
+When not working, I can be found brainstorming on my next project, but mostly binge-watching MKBHD on YouTube, playing badminton, or just sipping on some coffee ☕️
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-- ⚡ Fun fact: Trust me I am not Harsh. I am sweet!
-- 🌱 I’m currently learning to work with C, Verilog & Python
-- 📫 How to reach me: harshgupta7308@gmail.com
+**What am I doing currently?**
 
-<!--
-**harshg28101999/harshg28101999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💪 Leading a technical project for [Cocoa-Packs](https://cocoapacks.org/) and helping them go digital from scratch
+- 📌 Developing and hosting free virtual sessions on regression, data visualization, deep learning and much more at [NDL](https://ndl.psu.edu/)
+- 📱 Trying my hands on Flutter
+- 🧩 Learning Algorithms and Game Theory
+- ⚡️ Fun-Fact: I am doing three minors
+- 📨 Reach me here: shashwats169@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
