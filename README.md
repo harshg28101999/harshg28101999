@@ -52,7 +52,7 @@ Talk to me about
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Systems Programming and C; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
