@@ -28,6 +28,26 @@
 Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## 👯 Communities
+* DSC Lead
+* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
+* Microsoft Student Learn Ambassador(MSP/MLSA)
+* Deeplearning.ai event ambassador
+* Management Team Lead at Voice Of Code
+* CSE Club at CPU
+* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
+* Internshala Student Partner-16
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Backend development using **Flask,Django**
+- Making for **Relational Database Management Systems**
+- Robust full-stack system design implementation
+- Desktop application development using **Flutter**(Still learning)
+- Mobile application development using **Flutter and Kotlin**
+- Creating scalable cloud architecture using **AWS Cloud**
+- Solving Data structure and algorithm questions in **Java and Python**
   
 **Talking about Personal Stuffs:**
 
