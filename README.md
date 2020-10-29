@@ -26,7 +26,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=harshg28101999.harshg28101999)
 
 <br />
-Hi, I'm [Harsh Gupta](https://blog.abhisheknaidu.tech/), a Sfotware Developer 🚀 from Dubai, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Developer 🚀 from Dubai. Currently, I'm a FrontEnd Developer & Operator [@OpenVessel](https://www.dev.openvessel.org), Software Engineer 👨🏽‍💼[@Penn State Undergraduate Admissions](https://github.com/BITSoC) and a Former Undergraduate Research Assistant [@Penn State University](https://www.psu.edu). Beside's programming, I love FC Barcelona and traveling. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
