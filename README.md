@@ -50,8 +50,7 @@ Talk to me about
 - Mobile application development using **Flutter and Kotlin**
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
-  
-<br />
+
 
 ## Talking about Personal Stuffs:
 
@@ -61,7 +60,6 @@ Talk to me about
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
-<br />
 
 ## Languages and Tools:  
 
