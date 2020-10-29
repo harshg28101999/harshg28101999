@@ -12,7 +12,6 @@
   <img align="left" alt="Harsh's Qwiklabs Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/qwiklabs.svg" />
 </a>
 
-https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/qwiklabs.svg
 <a href="https://www.reddit.com/user/geekyabhi/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
