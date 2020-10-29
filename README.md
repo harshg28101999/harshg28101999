@@ -54,9 +54,9 @@ Talk to me about
 
 ## Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Systems Programming and C; 
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Systems Programming in C 
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: harshgupta7308@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
