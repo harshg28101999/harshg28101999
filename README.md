@@ -40,17 +40,6 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
 * CSE Club at CPU
 * CamPus Ambassador at Coding Ninja and Humanity Welfare Council
 * Internshala Student Partner-16
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Flask,Django**
-- Making for **Relational Database Management Systems**
-- Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter and Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
-
 
 ## Talking about Personal Stuffs:
 
@@ -58,8 +47,6 @@ Talk to me about
 - 🌱 I’m currently learning Systems Programming in C 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: harshgupta7308@gmail.com
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
-
 
 ## Languages and Tools:  
 
