@@ -2,27 +2,30 @@
 <a href="https://www.linkedin.com/in/harshgu/">
   <img align="left" alt="Harsh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://t.me/harshg2810">
   <img align="left" alt="Harsh's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<a href="https://stackoverflow.com/users/13216609/harshg28101999">
+  <img align="left" alt="Harsh's Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/stackoverflow.svg" />
 </a>
+
 <a href="https://www.qwiklabs.com/public_profiles/939ac227-9bde-4ce5-b3c3-47b8c30d6e59">
   <img align="left" alt="Harsh's Qwiklabs Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/qwiklabs.svg" />
 </a>
 
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://www.hackerrank.com/harshgupta7308">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/hackerrank.svg" />
 </a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+
+<a href="https://leetcode.com/harshg2810/">
+  <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=harshg28101999.harshg28101999)
 
 <br />
-
 Hi, I'm [Harsh Gupta](https://blog.abhisheknaidu.tech/), a Sfotware Developer 🚀 from Dubai, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
