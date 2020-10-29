@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.qwiklabs.com/public_profiles/939ac227-9bde-4ce5-b3c3-47b8c30d6e59">
   <img align="left" alt="Harsh's Qwiklabs Account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/qwiklabs.svg" />
 </a>
 
