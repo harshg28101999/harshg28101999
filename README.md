@@ -32,8 +32,8 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 👯 Communities
-* DSC Lead
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
+* DSC Tech Lead
+* ACM Officer
 * Microsoft Student Learn Ambassador(MSP/MLSA)
 * Deeplearning.ai event ambassador
 * Management Team Lead at Voice Of Code
