@@ -32,14 +32,10 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 👯 Communities
+* Co-Founder of OpenVessel
 * DSC Tech Lead
 * ACM Officer
 * Microsoft Student Learn Ambassador(MSP/MLSA)
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16
 
 ## Talking about Personal Stuffs:
 
