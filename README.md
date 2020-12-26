@@ -32,7 +32,7 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 👯 Communities
-* Co-Founder of OpenVessel
+* Co-Founder at OpenVessel
 * DSC Tech Lead
 * ACM Officer
 
