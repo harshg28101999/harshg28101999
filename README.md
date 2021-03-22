@@ -1,3 +1,4 @@
+
 <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <a href="https://www.linkedin.com/in/harshgu/">
   <img align="left" alt="Harsh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,6 +33,7 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## 👯 Communities
+* Software Engineering Intern at Solve 
 * Co-Founder at OpenVessel
 * DSC Tech Lead
 * ACM Officer
@@ -39,7 +41,7 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
 ## Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Systems Programming in C 
+- 🌱 I’m currently learning about Artificial Intelligence 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: harshgupta7308@gmail.com
 
