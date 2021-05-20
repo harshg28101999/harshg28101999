@@ -20,7 +20,7 @@
   <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-<a href="http://harshg.tech/">
+<a href="https://www.codewars.com/users/harshg28101999">
   <img align="left" alt="Harsh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />
 </a>
 
