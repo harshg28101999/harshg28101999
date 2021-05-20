@@ -1,6 +1,6 @@
 
 <h2> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<a href="http://harshg.tech/">
+<a href="https://harshg.tech/">
   <img align="left" alt="Harsh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
