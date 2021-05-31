@@ -45,7 +45,7 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
 ## Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning about Artificial Intelligence 
+- 🌱 I’m currently learning about JavaScript & App Development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: harshgupta7308@gmail.com
 
