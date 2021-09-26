@@ -32,7 +32,7 @@
 
 <br />
 
-Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Developer 🚀 from Dubai. Currently, I'm a Software Engineering Intern at [Illumina Inc.](https://www.illumina.com/), Technical Project Manager at [](),Software Engineering Intern at [Solve LLC](https://www.solvedelivery.com/) and Co-Founder & FrontEnd Developer at [OpenVessel LLC](https://www.openvessel.org). Beside's programming, I love FC Barcelona and traveling. 
+Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Developer 🚀 from Dubai. Currently, I'm a Software Engineering Intern at [Illumina Inc.](https://www.illumina.com/), Technical Project Manager at [Apoio](),Software Engineering Intern at [Solve LLC](https://www.solvedelivery.com/) and Co-Founder & FrontEnd Developer at [OpenVessel LLC](https://www.openvessel.org). Beside's programming, I love FC Barcelona and traveling. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
