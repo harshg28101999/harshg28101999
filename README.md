@@ -39,8 +39,8 @@ Hi, I'm [Harsh Gupta](https://www.linkedin.com/in/harshgu/), a Software Develope
 ## 👯 Communities
 * Software Engineering Intern at Illumina Inc.
 * Technical Project Manager at Apoio
-* Software Engineer at Solve 
-* Co-Founder at OpenVessel
+* Software Engineer at Solve LLC
+* Co-Founder at OpenVessel LLC
 * DSC Tech Lead
 * ACM Officer
 
